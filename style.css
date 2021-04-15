@@ -3,11 +3,11 @@ body {
   background: #eee;
 }
 
-#animals {
+#tvshows {
   width: 70%;
 }
 
-.animal-item {
+.tvshow-item {
   float: left;
   padding: 10px;
 }
