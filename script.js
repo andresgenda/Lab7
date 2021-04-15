@@ -44,7 +44,6 @@ $("#add-tvshow").click(function(ev){
 
     var serieNueva = $("#tvshow-input").val();
     temas.push(serieNueva);
-    
     $("#tvshow-input").val("");
 
     var botonNuevo = `<button id="${serieNueva}" class="currentButton">${serieNueva}</button>`;
